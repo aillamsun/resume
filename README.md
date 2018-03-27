@@ -1,7 +1,4 @@
 <img src="data/icon-resume.png" height="200"/>
-
----
-
 # 联系方式
 * 手机：13076061657（成都）
 * Email：<1120sungang@gmail.com>
