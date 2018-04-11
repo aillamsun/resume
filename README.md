@@ -82,7 +82,7 @@
 
 ### [O2O商超连锁系统](#)
 - 项目名称：O2O商超连锁系统
-- 项目地址：[O2O商超连锁系统](http://mall.dehuichaoshi.com/){:target="_blank"}
+- 项目地址：<a href="http://mall.dehuichaoshi.com" target="_blank">O2O商超连锁系统</a>
 - 系统环境
   + Macos / intellij idea
 - 技术栈
