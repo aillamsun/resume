@@ -44,10 +44,10 @@
 ## 个人作品
 
 ### [O2O实体门店三方接入管理系统](#)
-项目名称：O2O实体门店三方接入管理系统
-项目地址： 无
+- 项目名称：O2O实体门店三方接入管理系统
+- 项目地址： 无
 - 系统环境
-  - Macos / intellij idea
+  + Macos / intellij idea
 - 技术栈
   + java / mysql / spring boot / mybatis	
 - 简介
@@ -60,10 +60,10 @@
 
 
 ### [O2O商超连锁系统](#)
-项目名称：O2O商超连锁系统
-项目地址：[O2O商超连锁系统](http://mall.dehuichaoshi.com/)
+- 项目名称：O2O商超连锁系统
+- 项目地址：[O2O商超连锁系统](http://mall.dehuichaoshi.com/)
 - 系统环境
-  - Macos / intellij idea
+  + Macos / intellij idea
 - 技术栈
   + java / mysql / spring boot / mybatis	
 - 简介
