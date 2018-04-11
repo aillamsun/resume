@@ -30,7 +30,7 @@
 
   - 微服务架构拆分
 
-    目前针对商超系统 进行微服务拆分 系统内部使用Spring cloud 生态圈技术进行，根据当前业务拆分商品 订单 会员等系统治理，使用eureka作为服务注册中心，使用spring config进行统一配置管理，spring cloud bus进行项目配置实时变化更新，spring boot admin整个调用链监控，指标监控 ，目前关于其他服务还在进一步拆分治理
+    目前针对商超系统 进行微服务拆分 系统内部使用Spring cloud 生态圈技术进行，根据当前业务拆分商品 订单 会员等服务治理，使用eureka作为服务注册中心，使用spring config进行统一配置管理，spring cloud bus进行项目配置实时变化更新，spring boot admin整个调用链监控，指标监控 ，目前关于其他服务还在进一步拆分治理
 
   - 重构项目部署运维架构
 
