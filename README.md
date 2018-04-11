@@ -31,7 +31,7 @@
 
   - 重构项目部署运维架构
 
-    又传统tomcat 重构为 nginx + keepalived 高可用架构
+    由传统tomcat 重构为 nginx + keepalived 高可用架构
 
 
 
