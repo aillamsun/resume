@@ -21,20 +21,21 @@
   
   - 接口重构
 
-    增加lombok，将和业务逻辑有关的数据校验改写成自定义的annotation 注解形式。增加swagger文档说明以及restful风格
-    增加系统全局日志记录 注解，增加全局系统数据隔离注解
+    > * 增加lombok，将和业务逻辑有关的数据校验改写成自定义的annotation 注解形式。增加swagger文档说明以及restful风格
+    > * 增加系统全局日志记录 注解，增加全局系统数据隔离注解
   
   - 系统应用框架研发
   
-    开发系统基于 spring boot 通用框架研发，提供系统分布式map 分布式lock 分布式mq 集成，系统通用接口认证，幂等控制
+    > * 开发系统基于 spring boot 通用框架研发，提供系统分布式map 分布式lock 分布式mq 集成，系统通用接口认证，幂等控制
 
   - 微服务架构拆分
 
-    目前针对商超系统 进行微服务拆分 系统内部使用Spring cloud 生态圈技术进行，根据当前业务拆分商品 订单 会员等服务治理，使用eureka作为服务注册中心，使用spring config进行统一配置管理，spring cloud bus进行项目配置实时变化更新，spring boot admin整个调用链监控，指标监控 ，目前关于其他服务还在进一步拆分治理
+    > * 目前针对商超系统 进行微服务拆分 系统内部使用Spring cloud 生态圈技术进行，根据当前业务拆分商品 订单 会员等服务治理，使用eureka作为服务注册中心，使用spring config进行统一配置管理，spring cloud bus进行项目配置实时变化更新，spring boot admin整个调用链监控，指标监控 ，目前关于其他服务还在进一步拆分治理
 
   - 重构项目部署运维架构
 
-    由传统tomcat 重构为 nginx + keepalived 高可用架构
+    > * 由传统tomcat 重构为 nginx + keepalived 高可用架构
+    > * redis 集群
 
 
 
