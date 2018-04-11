@@ -82,7 +82,7 @@
 
 ### [O2O商超连锁系统](#)
 - 项目名称：O2O商超连锁系统
-- 项目地址：[O2O商超连锁系统](http://mall.dehuichaoshi.com/?_blank)
+- 项目地址：[O2O商超连锁系统](http://mall.dehuichaoshi.com/){:target="_blank"}
 - 系统环境
   + Macos / intellij idea
 - 技术栈
@@ -122,7 +122,7 @@
   
 ### [全网网络营销推广平台](#)
 - 全网网络营销推广平台
-- 项目地址：[全网网络营销推广平台官网](http://winmarket.com.cn/?_blank)---------------->>>[客户端](http://yingkee.net/?_blank)
+- 项目地址：[全网网络营销推广平台官网](http://winmarket.com.cn/){:target="_blank"}---------------->>>[客户端](http://yingkee.net/){:target="_blank"}
 - 系统环境
   + Macos / intellij idea
 - 技术栈
