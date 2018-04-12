@@ -16,6 +16,7 @@
 * 勤智数码 / 研发中心 / 高级研发工程师
 * 本科
 * Github：<https://github.com/aillamsun/>
+* Iteye：<http://sungang-1120.iteye.com/>
 * 工作职责: 系统架构设计，重构 性能优化
 * 工作业绩:
   
